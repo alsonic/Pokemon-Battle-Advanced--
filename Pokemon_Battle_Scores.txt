@@ -76,3 +76,131 @@ The grand winner is...Alastair!
 
 
 
+
+
+
+
+Player name: Alastair					Date:  21/1/2016
+
+Round 1 Summary: 
+Alastair used a Charmander
+Gary used a Squirtle
+Alastair wins: 1
+Gary wins: 0
+
+Round 2 Summary: 
+Alastair used a Bulbasaur
+Gary used a Charmander
+Alastair wins: 2
+Gary wins: 0
+
+The grand winner is...Alastair! 
+
+
+
+
+
+
+
+Player name: Alastair					Date:  21/1/2016
+
+Round 1 Summary: 
+Alastair used a Squirtle
+Gary used a Charmander
+Alastair wins: 1
+Gary wins: 0
+
+Round 2 Summary: 
+Alastair used a Charmander
+Gary used a Bulbasaur
+Alastair wins: 1
+Gary wins: 1
+
+Round 3 Summary: 
+Alastair used a Pikachu
+Gary used a Squirtle
+Alastair wins: 2
+Gary wins: 1
+
+The grand winner is...Alastair! 
+
+
+
+
+
+
+
+Player name: Alastair					Date:  21/1/2016
+
+Round 1 Summary: 
+Alastair used a Squirtle
+Gary used a Pikachu
+Alastair wins: 0
+Gary wins: 1
+
+Round 2 Summary: 
+Alastair used a Charmander
+Gary used a Bulbasaur
+Alastair wins: 1
+Gary wins: 1
+
+Round 3 Summary: 
+Alastair used a Pikachu
+Gary used a Squirtle
+Alastair wins: 2
+Gary wins: 1
+
+The grand winner is...Alastair! 
+
+
+
+
+
+
+
+Player name: Alastair					Date:  21/1/2016
+
+Round 1 Summary: 
+Alastair used a Charmander
+Gary used a Bulbasaur
+Alastair wins: 1
+Gary wins: 0
+
+Round 2 Summary: 
+Alastair used a Squirtle
+Gary used a Bulbasaur
+Alastair wins: 1
+Gary wins: 1
+
+Round 3 Summary: 
+Alastair used a Pikachu
+Gary used a Charmander
+Alastair wins: 2
+Gary wins: 1
+
+The grand winner is...Alastair! 
+
+
+
+
+
+
+
+Player name: Alastair					Date:  21/1/2016
+
+Round 1 Summary: 
+Alastair used a Charmander
+Gary used a Pikachu
+Alastair wins: 1
+Gary wins: 0
+
+Round 2 Summary: 
+Alastair used a Squirtle
+Gary used a Charmander
+Alastair wins: 2
+Gary wins: 0
+
+The grand winner is...Alastair! 
+
+
+

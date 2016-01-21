@@ -1170,6 +1170,7 @@ int main()
 			cin >> choice;
 		}
 	}
+
 	cout << "Hope you had fun with Pokemon Battle. Please play again soon!\n\n";
 
 	fout.close();
